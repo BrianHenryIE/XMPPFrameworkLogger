@@ -1,0 +1,9 @@
+Package: ie.brianhenry.xmppframeworklogger
+Name: XMPPFrameworkLogger
+Depends: mobilesubstrate
+Version: 0.9
+Architecture: iphoneos-arm
+Description: XMPPFramwork (https://github.com/robbiehanson/XMPPFramework) is a popular iOS/Objective-C framework for XMPP communication. It uses CocoaAsyncSocket (https://github.com/robbiehanson/CocoaAsyncSocket) to open a socket. The XMPP standard requires TLS so tcpdump is inadequate to listen to what is being communicated. This tweak hooks into CocoaAsyncSocket/GCDAsyncSocket's writeData method and its delegate method didReadData in XMPPStream to log messages sent and received by XMPPFramework.
+Maintainer: BrianHenryIE
+Author: Brian Henry
+Section: Tweaks
