@@ -67,4 +67,4 @@ Will output a `.xmpp.log.html` for every `.xmpp.log` file in the same directory.
 
 ## Acknowledgements
 
-Thank you to my friends Eoin and Roisín for the iPhone I had spare to jailbreak, my wife Leah for her patience, and [Dustin Howett](https://github.com/DHowett) for his help on [IRC](https://kiwiirc.com/client/irc.saurik.com:+6697/#theos) which pushed it over the line.
+Thank you to my friends Eoin and Roisín for the iPhone I had spare to jailbreak, my wife Leah for her patience, and [Dustin Howett](https://github.com/DHowett) whose help on [IRC](https://kiwiirc.com/client/irc.saurik.com:+6697/#theos) clarfied the last few missing pieces to get this working. And my mother, always.
