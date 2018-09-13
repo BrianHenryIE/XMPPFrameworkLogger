@@ -1,0 +1,73 @@
+.xmpp-stream {
+
+    width: 900px;
+}
+
+
+code.prettyprint { display: block; white-space: pre-wrap }
+div.el {margin-left: 2em}
+
+
+.message {
+    margin-top: 25px;
+
+}
+
+.send {
+    margin-right: 100px;
+}
+
+.receive {
+    margin-left: 100px;
+}
+
+.chat-border {
+
+    border-radius: 10px;
+    display:inline-block;
+    max-width: 100%;
+}
+
+.chat {
+
+    width: -moz-available;
+
+    padding:10px;
+    display: inline-block;
+}
+
+
+.date {
+    font-weight: bold;
+    font-size: 75%;
+    padding-bottom: 5px;
+}
+
+
+.send .chat-border {
+
+    background-color: aliceblue;
+}
+
+.receive .chat-border {
+
+    background-color: antiquewhite;
+}
+
+.receive {
+    text-align: right;
+}
+
+.xmpp-data {
+    display: inline-block;
+    text-align: left;
+    overflow:scroll;
+    width:100%;
+}
+.chat {
+    max-width: 100%;
+
+}
+xmp {
+    line-height: 18px;
+}
