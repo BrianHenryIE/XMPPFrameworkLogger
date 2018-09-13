@@ -48,7 +48,7 @@ To view the logs, open Console on MacOS, select your iOS device, and search "XMP
 
 The Console logs contain all the necessary information, but are very hard to make a mental model from. I've written a script to make them a little easier on the eye. Messages from the client are highlighted blue and responses from the server in orange. XML is indented, JSON inside <json> tags is formatted using PHP [JSON\_PRETTY\_PRINT](http://php.net/manual/en/function.json-encode.php) and style is applied with Google's [code-prettify](https://github.com/google/code-prettify) library:
 
-[![](https://brianhenryie.s3.amazonaws.com/2018/xmppframeworklogger-formattedxml900.png)](https://brianhenryie.s3.amazonaws.com/2018/xmppframeworklogger-formattedxml.png)
+[![](https://brianhenryie.s3.amazonaws.com/2018/xmppframeworklogger-formattedxml900w.png)](https://brianhenryie.s3.amazonaws.com/2018/xmppframeworklogger-formattedxml.png)
 
 To save the iOS logs to file, use [deviceconsole](https://github.com/rpetrich/deviceconsole/). Install via [npm](https://www.npmjs.com/get-npm) using: 
 
