@@ -4,7 +4,7 @@
         
 	NSUInteger length = [xml length];
         
-        int divide_factor = 950;
+        int divide_factor = 900;
 
 	NSString *isFirst = @"-start";
         
